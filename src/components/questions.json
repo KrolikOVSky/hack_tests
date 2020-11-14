@@ -1,0 +1,31 @@
+{
+  "ques1": {
+    "id": 1,
+    "name": "Question1",
+    "answer": [
+      {"title": "1res1!", "flag": 1},
+      {"title": "1res2", "flag": 0},
+      {"title": "1res3", "flag": 0}
+    ]
+  },
+
+  "ques2": {
+    "id": 2,
+    "name": "Question2",
+    "answer": [
+      {"title": "2res1", "flag": 0},
+      {"title": "2res2!", "flag": 1},
+      {"title": "2res3", "flag": 0}
+    ]
+  },
+
+  "ques3": {
+    "id": 3,
+    "name": "Question3",
+    "answer": [
+      {"title": "3res1", "flag": 0},
+      {"title": "3res2", "flag": 0},
+      {"title": "3res3!", "flag": 1}
+    ]
+  }
+}
